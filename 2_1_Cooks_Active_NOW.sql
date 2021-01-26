@@ -1,5 +1,3 @@
--- Missing store name, where is this obtained from?
-
 DO $$
 DECLARE 
 
